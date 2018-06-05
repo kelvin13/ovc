@@ -1,0 +1,14 @@
+{
+    "name": "OVC",
+    "version": "0.1.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "repository": "https://github.com/kelvin13/ovc",
+    "author": "karlie kloss",
+    "devDependencies": {
+        "electron": "^2.0.0"
+    }
+}
